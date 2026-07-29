@@ -1,30 +1,140 @@
-# ⏱ Modern Stopwatch
-Developed a responsive stopwatch application using HTML, CSS and JavaScript featuring lap tracking, keyboard shortcuts, dark mode and optimized user interaction.
+# ⏱️ Modern Stopwatch
 
-## Features
+A modern, responsive stopwatch web application built using **HTML, CSS, and JavaScript** with a clean glassmorphism UI, lap tracking, dark mode, and keyboard shortcuts.
 
-✓ Start/Pause stopwatch
-✓ Lap tracking
-✓ Dark mode
-✓ Keyboard shortcuts
-✓ Responsive design
-✓ Smooth animations
+This project focuses on creating a smooth user experience with accurate time tracking and a responsive design that works across different devices.
 
+---
 
-## Tech Stack
+## 🚀 Features
 
-HTML5
-CSS3
-JavaScript
+### ⏱ Stopwatch Functions
+- ▶ Start stopwatch
+- ⏸ Pause stopwatch
+- 🔄 Reset stopwatch
+- 🏁 Record lap timings
+- ⏳ Millisecond precision tracking
 
+### 🎨 User Interface
+- Modern glassmorphism design
+- Responsive layout
+- Smooth hover animations
+- Clean and minimal interface
 
+### 🌙 Dark Mode
+- Toggle between light and dark themes
+- Improved viewing experience
 
+### ⌨️ Keyboard Controls
 
-## Live Demo
+| Key | Action |
+|-----|--------|
+| Space | Start Stopwatch |
+| R | Reset Stopwatch |
+| L | Record Lap |
 
-(link)
+---
 
+## 🛠️ Tech Stack
 
-## Author
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6)
 
-SUSHMA
+### Tools
+- Visual Studio Code
+- Git & GitHub
+- Live Server Extension
+
+---
+
+## 📂 Project Structure
+
+```
+Modern-Stopwatch/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+││
+└── README.md
+```
+
+---
+
+## ⚙️ How To Run Locally
+
+Follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/suku-hk/Modern-Stopwatch.git
+```
+
+### 2. Navigate into the project folder
+
+```bash
+cd Modern-Stopwatch
+```
+
+### 3. Open the project
+
+Open `index.html` in your browser.
+
+or use the **Live Server extension** in VS Code for a better development experience.
+
+---
+
+## 🌐 Live Demo
+
+Coming Soon...
+
+---
+
+## 📌 Future Improvements
+
+Planned features:
+
+- [ ] Save lap history using Local Storage
+- [ ] Add stopwatch sound effects
+- [ ] Add countdown timer mode
+- [ ] Add PWA support for mobile installation
+- [ ] Improve animations
+- [ ] Add multiple stopwatch sessions
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I improved my understanding of:
+
+- DOM manipulation using JavaScript
+- Event handling
+- Timer functions (`setInterval`)
+- Responsive web design
+- CSS animations
+- Managing application state
+
+---
+
+## 👨‍💻 Author
+
+**Your Name**
+
+GitHub:
+```
+https://github.com/suku-hk
+```
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
