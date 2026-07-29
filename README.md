@@ -116,7 +116,7 @@ Through this project, I improved my understanding of:
 
 - DOM manipulation using JavaScript
 - Event handling
-- Timer functions (`setInterval`)
+- Timer functions 
 - Responsive web design
 - CSS animations
 - Managing application state
