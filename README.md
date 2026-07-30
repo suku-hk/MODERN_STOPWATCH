@@ -41,7 +41,7 @@ This project focuses on creating a smooth user experience with accurate time tra
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Technologies
 - HTML5
 - CSS3
 - JavaScript (ES6)
