@@ -10,14 +10,14 @@ This project focuses on creating a smooth user experience with accurate time tra
 
 ---
 ## Topics
-html
-css
-javascript
-stopwatch
-frontend
-responsive-design
-glassmorphism
-web-app
+-html
+-css
+-javascript
+-stopwatch
+-frontend
+-responsive-design
+-glassmorphism
+-web-app
 
 ## 🚀 Features
 
