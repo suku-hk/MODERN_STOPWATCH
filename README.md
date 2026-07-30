@@ -1,10 +1,23 @@
-# ⏱️ Modern Stopwatch
+# ⏱️ MODERN STOPWATCH
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
 
 A modern, responsive stopwatch web application built using **HTML, CSS, and JavaScript** with a clean glassmorphism UI, lap tracking, dark mode, and keyboard shortcuts.
 
 This project focuses on creating a smooth user experience with accurate time tracking and a responsive design that works across different devices.
 
 ---
+## Topics##
+html
+css
+javascript
+stopwatch
+frontend
+responsive-design
+glassmorphism
+web-app
 
 ## 🚀 Features
 
@@ -125,10 +138,8 @@ Through this project, I improved my understanding of:
 
 **SUSHMA**
 
-GitHub:
-```
-https://github.com/suku-hk
-```
+GitHub:https://github.com/suku-hk
+
 
 ---
 
