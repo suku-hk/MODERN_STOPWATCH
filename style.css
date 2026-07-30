@@ -1,0 +1,122 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Poppins, sans-serif;
+}
+
+
+body{
+
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    background:
+    linear-gradient(135deg,#667eea,#764ba2);
+
+}
+
+
+.container{
+
+    width:400px;
+
+    padding:30px;
+
+    text-align:center;
+
+    background:
+    rgba(255,255,255,0.15);
+
+    backdrop-filter:blur(15px);
+
+    border-radius:20px;
+
+    color:white;
+
+    box-shadow:
+    0 10px 30px rgba(0,0,0,0.3);
+
+}
+
+
+
+.timer{
+
+    font-size:40px;
+
+    margin:30px 0;
+
+    font-weight:bold;
+
+}
+
+
+
+button{
+
+    padding:12px 18px;
+
+    margin:5px;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+    font-size:15px;
+
+}
+
+
+
+button:hover{
+
+    transform:scale(1.05);
+
+}
+
+
+
+#laps{
+
+    margin-top:20px;
+
+    list-style:none;
+
+}
+
+
+#laps li{
+
+    background:white;
+
+    color:black;
+
+    margin:8px;
+
+    padding:8px;
+
+    border-radius:10px;
+
+}
+
+
+/* Dark Mode */
+
+.dark{
+
+    background:#111;
+
+}
+
+
+.dark .container{
+
+    background:
+    rgba(255,255,255,0.08);
+
+}
