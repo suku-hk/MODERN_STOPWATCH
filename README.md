@@ -72,13 +72,13 @@ Follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/suku-hk/Modern_Stopwatch.git
+git clone https://github.com/suku-hk/MODERN_STOPWATCH.git
 ```
 
 ### 2. Navigate into the project folder
 
 ```bash
-cd Modern_Stopwatch
+cd MODERN_STOPWATCH
 ```
 
 ### 3. Open the project
