@@ -56,12 +56,10 @@ Modern-Stopwatch/
 │
 ├── index.html
 │
-├── css/
-│   └── style.css
+├── style.css
 │
-├── js/
-│   └── script.js
-││
+├── script.js
+│
 └── README.md
 ```
 
@@ -74,13 +72,13 @@ Follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/suku-hk/Modern-Stopwatch.git
+git clone https://github.com/suku-hk/Modern_Stopwatch.git
 ```
 
 ### 2. Navigate into the project folder
 
 ```bash
-cd Modern-Stopwatch
+cd Modern_Stopwatch
 ```
 
 ### 3. Open the project
@@ -125,7 +123,7 @@ Through this project, I improved my understanding of:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**SUSHMA**
 
 GitHub:
 ```
