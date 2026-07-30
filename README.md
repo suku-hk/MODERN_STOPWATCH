@@ -95,7 +95,7 @@ or use the **Live Server extension** in VS Code for a better development experie
 
 ## 🌐 Live Demo
 
-Coming Soon...
+ https://suku-hk.github.io/MODERN_STOPWATCH/
 
 ---
 
