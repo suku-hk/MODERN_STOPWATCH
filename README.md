@@ -9,7 +9,7 @@ A modern, responsive stopwatch web application built using **HTML, CSS, and Java
 This project focuses on creating a smooth user experience with accurate time tracking and a responsive design that works across different devices.
 
 ---
-## Topics##
+## Topics
 html
 css
 javascript
